@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.api.rest.CarroDto;
+import com.api.rest.dto.CarroDto;
 import com.api.rest.service.CarroService;
 
 import lombok.AllArgsConstructor;

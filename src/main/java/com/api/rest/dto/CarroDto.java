@@ -1,4 +1,4 @@
-package com.api.rest;
+package com.api.rest.dto;
 
 import com.api.rest.model.Carro;
 

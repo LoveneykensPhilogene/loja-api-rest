@@ -7,7 +7,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.api.rest.CarroDto;
+import com.api.rest.dto.CarroDto;
 import com.api.rest.model.Carro;
 import com.api.rest.repository.CarroRepository;
 
